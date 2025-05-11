@@ -7,4 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/abdul/ros_as_ws/build'
+export PWD='/home/Nimai/assignment/build'
